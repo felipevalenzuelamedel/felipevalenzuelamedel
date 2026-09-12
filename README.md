@@ -114,7 +114,7 @@ Aplicación web desarrollada como parte de mi formación en Java.
 - Integración con base de datos.
 - Despliegue sobre Apache Tomcat.
 
-🔗 **[Ver repositorio](https://github.com/felipevalenzuelamedel/biblioteca-mvc)**
+🔗 **[Ver repositorio](https://github.com/felipevalenzuelamedel/biblioteca-mvc-modulo5)**
 
 ---
 
